@@ -1,2 +1,2 @@
 # codebook
-https://codebook.panorama-lab.com
+https://panorama-lab.com/codebook
