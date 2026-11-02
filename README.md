@@ -69,6 +69,6 @@ Playback depends on the recording’s codec. Waveform previews may be unavailabl
 
 Use [GitHub Issues](https://github.com/panorama-lab/codebook/issues) for bug reports and feature requests. For playback or annotation problems, include your app version, operating system, media format, and steps to reproduce. Remove API keys and private research material before sharing files.
 
-## License
+## Usage
 
-This repository includes the [Apache License 2.0](LICENSE). Bundled third-party components have their own license terms.
+Codebook is currently free for educational use and research purposes.

@@ -69,6 +69,6 @@ Codebook 正在持续开发中。桌面应用目前专注于音视频编码，�
 
 欢迎通过 [GitHub Issues](https://github.com/panorama-lab/codebook/issues) 提交问题和功能建议。反馈播放或标注问题时，请提供应用版本、操作系统、媒体格式和复现步骤。分享文件前，请移除 API 密钥和私密研究材料。
 
-## 许可证
+## 使用说明
 
-本仓库包含 [Apache License 2.0](LICENSE)。随应用分发的第三方组件遵循各自的许可条款。
+Codebook 目前可免费用于教育和研究用途。
