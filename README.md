@@ -6,6 +6,12 @@ English · [简体中文](README.zh-CN.md)
 
 [Website](https://panorama-lab.com/codebook) · [Download](https://github.com/panorama-lab/codebook/releases) · [Report an issue](https://github.com/panorama-lab/codebook/issues)
 
+## Screenshots
+
+![Codebook editor with tier settings](screenshots/codebook-editor.png)
+
+![Audio and video coding workspace](screenshots/coding-workspace.png)
+
 ## What you can do
 
 - **Build a codebook.** Define tiers with text, number, boolean, single-choice, or multiple-choice values. Document category definitions, inclusion and exclusion criteria, examples, event boundaries, and decision rules. Preview and copy the generated guide, or import and export the structured codebook as JSON.
