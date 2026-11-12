@@ -4,6 +4,8 @@ Panorama Lab 开发的音视频质性研究编码桌面工具。制定编码手�
 
 [English](README.md) · 简体中文
 
+[术语表](GLOSSARY_zh-CN.md)
+
 [官方网站](https://panorama-lab.com/codebook) · [下载应用](https://github.com/panorama-lab/codebook/releases) · [问题反馈](https://github.com/panorama-lab/codebook/issues)
 
 ## 主要功能

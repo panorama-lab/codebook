@@ -2,7 +2,9 @@
 
 A desktop workspace for coding audio and video in qualitative research, by Panorama Lab. Define a coding protocol, annotate recordings on a timeline, and keep each coder’s work together in a local project folder.
 
-English · [简体中文](README.zh-CN.md)
+English · [简体中文](README_zh-CN.md)
+
+[Glossary](GLOSSARY.md)
 
 [Website](https://panorama-lab.com/codebook) · [Download](https://github.com/panorama-lab/codebook/releases) · [Report an issue](https://github.com/panorama-lab/codebook/issues)
 
