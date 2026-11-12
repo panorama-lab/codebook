@@ -1,5 +1,7 @@
 # Panorama Codebook
 
+<img src="assets/icon.png" alt="Panorama Codebook app icon" width="96" height="96" />
+
 Panorama Lab 开发的音视频质性研究编码桌面工具。制定编码手册，在时间轴上标注录音与视频，并将每位编码员的工作保存在本地项目文件夹中。
 
 [English](README.md) · 简体中文

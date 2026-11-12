@@ -1,5 +1,7 @@
 # Panorama Codebook
 
+<img src="assets/icon.png" alt="Panorama Codebook app icon" width="96" height="96" />
+
 A desktop workspace for coding audio and video in qualitative research, by Panorama Lab. Define a coding protocol, annotate recordings on a timeline, and keep each coder’s work together in a local project folder.
 
 English · [简体中文](README_zh-CN.md)
