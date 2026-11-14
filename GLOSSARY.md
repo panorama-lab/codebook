@@ -65,16 +65,15 @@ Terminology for Codebook Desktop. Definitions describe the desktop app's concept
 
 ## Transcription and interchange
 
-| Term                       | Definition                                                                                                                 |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Transcript                 | Timestamped text for an asset, shared across its coders.                                                                   |
-| Automatic transcription    | Using a configured service to convert audio into timestamped text.                                                         |
-| Transcript segment         | A unit of transcript text with timing and optional source-person information.                                              |
-| Word timing                | Timing associated with individual words, when available.                                                                   |
-| SRT / SubRip subtitle file | A subtitle format imported as transcript cues with their original text and timestamps.                                     |
-| EAF / ELAN annotation file | An XML format from which tier/category definitions or time-aligned annotations can be imported through separate workflows. |
-| Category mapping           | Matching imported annotation values to existing codebook categories.                                                       |
-| Time adjustment            | An offset in milliseconds added to imported annotation start and end times.                                                |
+| Term                       | Definition                                                                             |
+| -------------------------- | -------------------------------------------------------------------------------------- |
+| Transcript                 | Timestamped text for an asset, shared across its coders.                               |
+| Automatic transcription    | Using a configured service to convert audio into timestamped text.                     |
+| Transcript segment         | A unit of transcript text with timing and optional source-person information.          |
+| Word timing                | Timing associated with individual words, when available.                               |
+| SRT / SubRip subtitle file | A subtitle format imported as transcript cues with their original text and timestamps. |
+| Category mapping           | Matching imported annotation values to existing codebook categories.                   |
+| Time adjustment            | An offset in milliseconds added to imported annotation start and end times.            |
 
 ## AI annotation
 

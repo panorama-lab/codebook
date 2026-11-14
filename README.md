@@ -71,7 +71,7 @@ Multiple app instances or cloud-synced folders must not edit the same project co
 
 ## Current scope
 
-Panorama Codebook is in active development. The desktop app currently focuses on audio and video coding. Text-document coding, analytic memos, theme development, coder comparison, and EAF interoperability are not currently available in the desktop workflow.
+Panorama Codebook is in active development. The desktop app currently focuses on audio and video coding. Text-document coding, analytic memos, theme development, and coder comparison are not currently available in the desktop workflow.
 
 Playback depends on the recording’s codec. Waveform previews may be unavailable for larger compressed recordings even when playback and coding work. Protocol rules and tier relationships provide guidance; they are not automatically enforced by the timeline.
 
