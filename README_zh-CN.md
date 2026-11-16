@@ -21,7 +21,8 @@ Panorama Lab 开发的音视频质性研究编码桌面工具。制定编码手�
 
 ## 下载
 
-前往 [GitHub Releases](https://github.com/panorama-lab/codebook/releases) 下载应用。当前提供 **Apple Silicon（arm64）Mac** 版本下载。
+- **Windows：** 前往 [Microsoft Store](https://apps.microsoft.com/detail/9mtljg2dnbm2) 下载。
+- **Apple Silicon（arm64）Mac：** 前往 [GitHub Releases](https://github.com/panorama-lab/codebook/releases) 下载。
 
 打包发布的 macOS 应用会在启动时检查更新，也可通过 **Panorama Codebook → 检查更新…** 手动检查。更新下载需要确认，下载后可选择稍后重启安装。
 

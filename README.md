@@ -27,7 +27,8 @@ English · [简体中文](README_zh-CN.md)
 
 ## Download
 
-Get the application from [GitHub Releases](https://github.com/panorama-lab/codebook/releases). The current download is available for **macOS on Apple Silicon (arm64)**.
+- **Windows:** Download from the [Microsoft Store](https://apps.microsoft.com/detail/9mtljg2dnbm2).
+- **macOS on Apple Silicon (arm64):** Download from [GitHub Releases](https://github.com/panorama-lab/codebook/releases).
 
 Packaged macOS releases check for updates on startup. You can also choose **Panorama Codebook → Check for Updates…**. Downloading an update requires confirmation, and installation can be postponed until you are ready to restart.
 
