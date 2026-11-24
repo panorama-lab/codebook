@@ -63,7 +63,6 @@ assets/                      Recording metadata
 media/                       Imported recordings and extracted audio
 coding/                      Annotations organized by recording and coder
 transcripts/                 Transcripts and archived versions
-.codebook/                   Project lock and generated cache
 ```
 
 Saved JSON records use atomic replacement and retain the previous version in an adjacent `.bak` file. Back up the entire project folder to preserve both recordings and annotations. Close the project before moving or restoring it; media paths are relative to the project folder.
