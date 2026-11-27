@@ -15,7 +15,7 @@ English · [简体中文](README_zh-CN.md)
 - **Define a coding protocol.** Create color-coded tiers and categories. Document when an event starts and ends, which cases to include or exclude, and examples coders can consult in the coding guide.
 - **Annotate recordings in context.** Create and adjust intervals with the media player, waveform, timeline, and coding guide in the same window. Loop a selection, change playback speed, and undo or redo edits.
 - **Review coder agreement.** Track each coder’s progress and keep their records separate. Compare two coders by tier and person using event detection F1, Cohen’s κ, and differences in annotation boundaries.
-- **Work with transcripts.** Import SRT subtitles or generate a transcript with MiniMax. Click transcript text to seek through the recording, edit the transcript, and link source speaker labels to people in the project.
+- **Work with transcripts.** Import SRT subtitles or generate a transcript automatically. Click transcript text to seek through the recording, edit the transcript, and link source speaker labels to people in the project.
 - **Review AI annotation suggestions.** Connect a configured Codex or WorkBuddy installation, choose a person, tier, and time range, and review the generated annotations before importing them.
 - **Keep projects locally.** Code offline and use a `.codebook` archive to back up or move a project with its media, transcript, and annotations.
 - **Choose your interface language.** Use English, Simplified Chinese, or the system language. Changing the interface language leaves research content unchanged.
@@ -50,9 +50,9 @@ Each recording/coder pair opens in its own coding window, so you can keep severa
 
 ## Automatic transcription
 
-Open **Panorama Codebook → Settings… → Transcribe**, choose **New provider**, and configure MiniMax with your API key and the `asr-1.0` model. In a recording’s coding window, open the transcript sidebar and choose automatic transcription.
+Open **Panorama Codebook → Settings… → Transcribe**, choose **New provider**, and enter your transcription provider’s API key. In a recording’s coding window, open the transcript sidebar and choose automatic transcription.
 
-Audio is sent to MiniMax in chunks. Provider usage may incur charges; retrying starts a new run. Failed or canceled transcription leaves the existing transcript intact. Replacing a transcript requires confirmation and archives the previous version in the project.
+Automatic transcription sends audio to the configured provider in chunks. The provider may charge for usage. Retrying starts a new run. Failed or canceled transcription leaves the existing transcript intact. Replacing a transcript requires confirmation and archives the previous version in the project.
 
 Transcripts are shared across coders for the same recording. Choose **Import → SRT** in the transcript panel to preview and import a subtitle file. You can edit the saved text and map source speaker labels to people in the project.
 
